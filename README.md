@@ -1,3 +1,27 @@
+  <div align="center">
+
+  <img src="https://wipekit.net/wipekit.svg" width="64" height="64" 
+  alt="wipekit" />
+
+  # WipeKit
+
+  **Self-hosted Rust dedicated server management panel**
+
+  [![Version](https://img.shields.io/badge/version-v0.1.0-blue?style=flat-square)](https://github.com/timhpuPl/WipeKit-Panel/releases)
+  [![Node](https://img.shields.io/badge/node-20+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+  [![Platform](https://img.shields.io/badge/platform-Ubuntu%20%2F%20Debian-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+  [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](#license)
+  [![Early Access](https://img.shields.io/badge/status-Early%20Access-yellow?style=flat-square)]()
+
+  [Documentation](https://wipekit.net/docs) ·
+  [Support](https://wipekit.net/support) ·
+  [Releases](https://github.com/timhpuPl/WipeKit-Panel/releases)
+
+  </div>
+
+  ---
+
+  
   ## Overview
 
   WipeKit is a self-hosted web panel for managing Rust dedicated servers. It
